@@ -9,7 +9,7 @@ import framework.TestRunner;
 import org.testng.Assert;
 
 /**
- * Created by mohammadmuntakim on 6/9/17.
+ * Created by dc on 6/9/17.
  */
 public class LoginSD {
 
