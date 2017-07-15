@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1500148698058" stop="1500148857341" version="1.4.15" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Verify Invalid Login</name>
+    <title>Verify Invalid Login</title>
+    <test-cases>
+        <test-case start="1500148708114" stop="1500148708118" status="passed">
+            <name>Given I open the default browser</name>
+            <title>Given I open the default browser</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="DCs-MacBook-Air.local"/>
+                <label name="thread" value="4050@DCs-MacBook-Air.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1500148721513" stop="1500148721513" status="passed">
+            <name>And I am on home page</name>
+            <title>And I am on home page</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="DCs-MacBook-Air.local"/>
+                <label name="thread" value="4050@DCs-MacBook-Air.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1500148739355" stop="1500148739355" status="passed">
+            <name>When I enter mohammad@technosoftacademy.io into username text fields on home screen</name>
+            <title>When I enter mohammad@technosoftacademy.io into username text fields on home screen</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="DCs-MacBook-Air.local"/>
+                <label name="thread" value="4050@DCs-MacBook-Air.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1500148776205" stop="1500148776205" status="passed">
+            <name>And I enter test1234 into password text fields on home screen</name>
+            <title>And I enter test1234 into password text fields on home screen</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="DCs-MacBook-Air.local"/>
+                <label name="thread" value="4050@DCs-MacBook-Air.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1500148817032" stop="1500148817033" status="passed">
+            <name>And I click on login button on home screen</name>
+            <title>And I click on login button on home screen</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="DCs-MacBook-Air.local"/>
+                <label name="thread" value="4050@DCs-MacBook-Air.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1500148832976" stop="1500148832977" status="passed">
+            <name>Then I verify that i am an invalid login page</name>
+            <title>Then I verify that i am an invalid login page</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="DCs-MacBook-Air.local"/>
+                <label name="thread" value="4050@DCs-MacBook-Air.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1500148857330" stop="1500148857330" status="passed">
+            <name>And I close the default browser</name>
+            <title>And I close the default browser</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="DCs-MacBook-Air.local"/>
+                <label name="thread" value="4050@DCs-MacBook-Air.local.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="story" value="Verify Invalid Login"/>
+        <label name="feature" value="Login feature"/>
+        <label name="framework" value="CucumberJVM"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
