@@ -65,14 +65,14 @@ formatter.match({
   "location": "SharedSD.before()"
 });
 formatter.result({
-  "duration": 38131098061,
+  "duration": 21851875590,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginSD.iAmOnHomePage()"
 });
 formatter.result({
-  "duration": 1446930865,
+  "duration": 150054835,
   "status": "passed"
 });
 formatter.match({
@@ -89,7 +89,7 @@ formatter.match({
   "location": "LoginSD.enterDataIntoTextFields(String,String)"
 });
 formatter.result({
-  "duration": 7824644317,
+  "duration": 2474304790,
   "status": "passed"
 });
 formatter.match({
@@ -106,28 +106,28 @@ formatter.match({
   "location": "LoginSD.enterDataIntoTextFields(String,String)"
 });
 formatter.result({
-  "duration": 26840274498,
+  "duration": 767187863,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginSD.clickOnLoginButton()"
 });
 formatter.result({
-  "duration": 30813917323,
+  "duration": 1975511178,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginSD.verifyInvalidLoginPage()"
 });
 formatter.result({
-  "duration": 5930276696,
+  "duration": 308723151,
   "status": "passed"
 });
 formatter.match({
   "location": "SharedSD.after()"
 });
 formatter.result({
-  "duration": 14344200842,
+  "duration": 399202738,
   "status": "passed"
 });
 });
